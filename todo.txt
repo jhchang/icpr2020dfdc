@@ -1,0 +1,3 @@
+- get jupyter notebook for video prediction running
+- find out how to implement weight pruning for pytorch
+- find out how to implmenet quantization
